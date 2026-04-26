@@ -33,8 +33,6 @@ I'm a strategic creative professional based in Stockholm, Sweden, with extensive
 - Multilingual professional (Norwegian, Swedish, English)
 - Innovation competition winner
 
-I specialize in creating AI agents that bridge the gap between creative vision and practical implementation, ensuring both client success and seamless user experiences.
-
 ---
 
 ## 📬 Contact Me
