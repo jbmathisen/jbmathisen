@@ -1,6 +1,6 @@
 # 🧠 AI Agent Portfolio
 
-Welcome to my AI agent portfolio! I'm Jonathan Mathisen, a creative strategist and consultant who brings innovative AI solutions to life. With a background in design-driven strategy and client development, I create AI agents that solve real-world problems with creativity and precision.
+You know that dog meme hammering the keyboard.. thats me. I still dont know how i got here.
 
 ---
 
@@ -19,6 +19,8 @@ Welcome to my AI agent portfolio! I'm Jonathan Mathisen, a creative strategist a
 - Award-winning design approach
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/character-turnaround-generator-v102-7e5ea0dd)
+
+
 
 ---
 
