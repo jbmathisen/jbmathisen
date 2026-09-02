@@ -1,49 +1,36 @@
 You know that dog meme hammering the keyboard.. thats me. I still dont know how i got here.
 
+---
 
+## Featured builds
+
+### Local Video Annotation Tool `open source`
+Offline, single-file HTML tool for timestamped video feedback. No uploads, no accounts, no backend. I built it after receiving feedback on the same video in six different formats in one week (Post-its, email, Excel, Word, PowerPoint, and a phone photo of a screen). [→ GitHub](https://github.com/jbmathisen/LocalVideoAnnotation-tool)
+
+### Win Meeting Notes `open source`
+Windows 11 meeting transcription that records, identifies speakers, and routes structured notes into Obsidian via Google Drive and Gmail. Uses AssemblyAI and the Claude API. Cost per meeting: ~$0.02 Claude API + ~$0.006 AssemblyAI. Built because I kept losing things I said I'd do. [→ GitHub](https://github.com/jbmathisen/Win_MeetingNotes)
+
+### Stockholm Tech Portrait Agent
+Upload a photo, pick a hex code. The agent reads the color's warmth, determines styling direction, and generates a photorealistic studio portrait. Stripe handles payment before anything runs. Proof of concept with a live payment flow. (Link on request)
+
+### Batch Creative Workflow
+MindStudio workflow that takes a master prompt, a reference image, and a list of subjects, then generates a full set of visuals from a single config. Runs 10+ prompt variations against one model, then the best prompts across 10+ models to find quality and coherence before generating the full batch. (Link on request)
+
+### Character Turnaround Agent
+Takes a character image and generates a full turnaround sheet: front, back, left, right, portrait. Routes by art style, builds angle-specific prompts, runs identity checks between views. TOP 10, MindStudio Hackathon. Avg run cost <$0.70, ~3 minutes. [→ Try it](https://app.mindstudio.ai/agents/character-turnaround-generator-v102-7e5ea0dd)
+
+### Pictocards
+Flashcard app for children learning first words. Deck-based model, one account across App Store, Google Play, and web. Built iteratively using Claude as a development partner. Designed to eventually support children with ASD. [→ pictocards.app](https://pictocards.app)
+
+### AI Blog Generator
+Post generator built into a Norwegian freelancer platform. Inputs for topic, audience, length, and tone. Brief to publish-ready in minutes. I handled the agent design and workflow. (Link on request)
 
 ---
 
-## 🚀 Featured AI Agents
+## Background
 
-### Character Turnaround Agent  
-**Description**: Scale your characters for using AI across multiple artistic styles. This award-winning agent (Mindstudio Hackathon TOP 10) transforms character concepts into comprehensive turnaround sheets perfect for AI-powered creative workflows.
+15 years across strategy, communication, and design. 8 of those at BCG Design Studios as the sole Nordic creative strategist. I worked on proposals, leadership presentations, and training, mostly as the first person in the room before the designers took over.
 
-**Use Case**: Perfect for game developers, animators, and content creators who need to generate consistent character designs across different angles and styles for their AI art pipelines.
+Now building tools, taking Upwork projects, and figuring out what comes next.
 
-**Key Features:**
-- Multi-style character generation
-- Comprehensive turnaround views
-- AI-optimized output formats
-- Scalable character development
-- Award-winning design approach
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/character-turnaround-generator-v102-7e5ea0dd)
-
-
-
----
-
-## 👨‍💼 About Me
-
-I'm a strategic creative professional based in Stockholm, Sweden, with extensive experience in design-driven consulting and client development. My work spans across strategy, communication, and innovative problem-solving, bringing a unique creative lens to every project.
-
-**Background:**
-- Strategic consultant with expertise in design-driven solutions
-- Award-winning trainer and mentor (multiple BCG awards)
-- Featured creator in Cap&Design Magazine
-- Multilingual professional (Norwegian, Swedish, English)
-- Innovation competition winner
-
----
-
-## 📬 Contact Me
-
-Ready to collaborate on your next AI project? I specialize in:
-
-- **Creative AI solutions**
-- **Character design automation**
-- **Strategic AI implementation**
-- **Custom agent development**
-
-[📬 Contact me](mailto:jonathan@namepending.com) or [Connect on LinkedIn](https://www.linkedin.com/in/jbmathisen)
+Stockholm. [LinkedIn](https://www.linkedin.com/in/jbmathisen) | [jonathan@namepending.se](mailto:jonathan@namepending.se)
