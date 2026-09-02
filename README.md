@@ -124,9 +124,8 @@ Post generator built into a Norwegian freelancer platform. Topic, audience, leng
 
 ## Background
 
-15 years across strategy, communication, and design. 8 of those at BCG Design Studios as the sole Nordic creative strategist — proposals, leadership presentations, training, mostly as the first person in the room before the designers took over.
-
-Now building tools, taking Upwork projects, and figuring out what comes next.
+15+ years across strategy, communication, and design. The through-line has been the same: take something complex and make it work.
+Now building tools, both for fun and professionally (believe it or not).
 
 <br>
 
