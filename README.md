@@ -20,8 +20,6 @@
 
 <br>
 
-> You know that dog meme hammering the keyboard.. thats me. I still dont know how i got here.
-
 <br>
 
 ## Builds
