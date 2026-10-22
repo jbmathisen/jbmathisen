@@ -114,7 +114,21 @@ Post generator built into a Norwegian freelancer platform. Topic, audience, leng
 *Link on request*
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<h3>🗓️ School Dashboard</h3>
+
+![Open Source](https://img.shields.io/badge/open%20source-1C2BA4?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1C2BA4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1C2BA4?style=flat-square)
+![AI-guided setup](https://img.shields.io/badge/AI--guided%20setup-1C2BA4?style=flat-square)
+
+<a href="https://github.com/jbmathisen/opsve-skol-dashboard"><img src="https://raw.githubusercontent.com/jbmathisen/opsve-skol-dashboard/main/docs/images/dashboard-today.png" width="100%" alt="School dashboard, today view"></a>
+
+Calm, glanceable school dashboard on a wall screen for kids who need visual structure. Today's lessons, a merged packing list, test countdowns, and a get-ready clock that shifts green to red before school. The repo is written so an AI assistant can guide any parent through setup.
+
+[→ GitHub](https://github.com/jbmathisen/opsve-skol-dashboard)
+
+</td>
 </tr>
 </table>
 
