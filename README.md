@@ -33,6 +33,8 @@
 ![HTML](https://img.shields.io/badge/HTML-1C2BA4?style=flat-square)
 ![Offline](https://img.shields.io/badge/offline-1C2BA4?style=flat-square)
 
+<a href="https://github.com/jbmathisen/LocalVideoAnnotation-tool"><img src="images/local-video-annotation.png" width="100%" alt="Local Video Annotation Tool"></a>
+
 Offline, single-file HTML tool for timestamped video feedback. No uploads, no accounts, no backend. Built after receiving feedback on the same video in six different formats in one week.
 
 [→ GitHub](https://github.com/jbmathisen/LocalVideoAnnotation-tool)
@@ -44,6 +46,8 @@ Offline, single-file HTML tool for timestamped video feedback. No uploads, no ac
 ![Open Source](https://img.shields.io/badge/open%20source-1C2BA4?style=flat-square)
 ![AssemblyAI](https://img.shields.io/badge/AssemblyAI-1C2BA4?style=flat-square)
 ![Claude API](https://img.shields.io/badge/Claude%20API-1C2BA4?style=flat-square)
+
+<a href="https://github.com/jbmathisen/Win_MeetingNotes"><img src="images/win-meeting-notes.png" width="100%" alt="Win Meeting Notes pipeline"></a>
 
 Windows 11 meeting transcription that records, identifies speakers, and routes structured notes into Obsidian via Google Drive and Gmail. ~$0.026 per meeting.
 
@@ -83,6 +87,8 @@ Takes a master prompt, a reference image, and a list of subjects, then generates
 ![MindStudio](https://img.shields.io/badge/MindStudio-1C2BA4?style=flat-square)
 ![Top 10 Hackathon](https://img.shields.io/badge/top%2010%20%E2%80%94%20MindStudio%20Hackathon-1C2BA4?style=flat-square)
 
+<a href="https://app.mindstudio.ai/agents/character-turnaround-generator-v102-7e5ea0dd"><img src="images/mindstudio-character-hackathon.png" width="100%" alt="Character Turnaround Agent, input and turnaround sheets"></a>
+
 Generates a full turnaround sheet from one character image: front, back, left, right, portrait. Routes by art style, builds angle-specific prompts, runs identity checks between views. Avg <$0.70, ~3 min.
 
 [→ Try it](https://app.mindstudio.ai/agents/character-turnaround-generator-v102-7e5ea0dd)
@@ -95,6 +101,8 @@ Generates a full turnaround sheet from one character image: front, back, left, r
 ![iOS](https://img.shields.io/badge/iOS-1C2BA4?style=flat-square)
 ![Android](https://img.shields.io/badge/Android-1C2BA4?style=flat-square)
 ![Web](https://img.shields.io/badge/Web-1C2BA4?style=flat-square)
+
+<a href="https://pictocards.app"><img src="images/pictocards-screen.png" width="100%" alt="Pictocards start page"></a>
 
 Flashcard app for children learning first words. Deck-based model, one account across App Store, Google Play, and web. Built iteratively with Claude. Designed to eventually support children with ASD.
 
