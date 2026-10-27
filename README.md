@@ -138,6 +138,86 @@ Calm, glanceable school dashboard on a wall screen for kids who need visual stru
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📔 Visual Diary</h3>
+
+![Claude API](https://img.shields.io/badge/Claude%20API-1C2BA4?style=flat-square)
+![React](https://img.shields.io/badge/React-1C2BA4?style=flat-square)
+![Private beta](https://img.shields.io/badge/private%20beta-1C2BA4?style=flat-square)
+
+<img src="images/visual-diary.png" width="100%" alt="Visual Diary, an illustrated page for 'orange cat in the rain'">
+
+A digital diary companion. Write a few lines about the day and it becomes an illustrated page that paints itself while you watch. The finished picture then becomes a small mini-game built from the day's story: jump in the puddles, flip the pancakes, fill the moat.
+
+*Link on request*
+
+</td>
+<td width="50%" valign="top">
+<h3>🎲 Felt Games Room</h3>
+
+![React](https://img.shields.io/badge/React-1C2BA4?style=flat-square)
+![CC0 assets](https://img.shields.io/badge/CC0%20assets-1C2BA4?style=flat-square)
+
+<img src="images/felt-games-room.png" width="100%" alt="Felt Games Room menu with six games">
+
+Six games inside the diary: chess, checkers, tic-tac-toe, five in a row, memory pairs, dots & boxes. Hand-cut felt look, Biscuit the dog as opponent, easy and tricky levels. Assets released free in crafterAssetLibrary.
+
+*Link on request* · [→ Assets](https://github.com/jbmathisen/crafterAssetLibrary)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📺 Talking Head</h3>
+
+![Python](https://img.shields.io/badge/Python-1C2BA4?style=flat-square)
+![Alpha 1](https://img.shields.io/badge/alpha%201-1C2BA4?style=flat-square)
+
+<img src="images/talking-head.png" width="100%" alt="Talking Head, pixel avatar frames in brand blue">
+
+Voice-reactive pixel avatar for explanation videos. Five photos become a sprite set; the voice track drives mouth shapes and blinks, rendered as a codec-style overlay in brand blue. Alpha 1: works end to end, still rough at the edges.
+
+*Link on request*
+
+</td>
+<td width="50%" valign="top">
+<h3>✍️ Writing Companion</h3>
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-1C2BA4?style=flat-square)
+![Adaptive voice](https://img.shields.io/badge/adaptive%20voice-1C2BA4?style=flat-square)
+
+An adaptive writing companion, built through reactions rather than instructions. Claude plays options like a band; the writer listens like a producer and calls each line alive, stale or "not me". Every reaction is logged. When a pattern repeats, it's proposed as a rule in a personal voice profile, so each new text starts closer to how that person actually sounds. Anti-slop checks run last, once the material and angle are right.
+
+*Link on request*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏃 Devsprinter</h3>
+
+![WIP](https://img.shields.io/badge/WIP-1C2BA4?style=flat-square)
+![Claude Code hooks](https://img.shields.io/badge/Claude%20Code%20hooks-1C2BA4?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-1C2BA4?style=flat-square)
+
+When several people and AI agents share a sprint, nobody can see who is working on what or how far along it is. The idea is to use the agent's own work plan as the signal. Each time the plan changes, a small progress update goes to GitHub, so ownership and honest progress show up where the team already works. Anyone not using it notices nothing.
+
+*Work in progress*
+
+</td>
+<td width="50%" valign="top">
+<h3>🛠️ Visual Tools</h3>
+
+![Browser](https://img.shields.io/badge/browser-1C2BA4?style=flat-square)
+![SVG](https://img.shields.io/badge/SVG-1C2BA4?style=flat-square)
+
+Four small browser tools for graphic work. AH.Grid does Hofmann-style string letterforms, Motif composes patterns, SVG Creator draws tile shapes, and Etchr runs photo effects.
+
+[→ namepending.se/tools](https://namepending.se/tools/)
+
+</td>
+</tr>
 </table>
 
 <br>
