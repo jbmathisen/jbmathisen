@@ -218,6 +218,25 @@ Four small browser tools for graphic work. AH.Grid does Hofmann-style string let
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎬 Briefing AI Visuals</h3>
+
+![Open source](https://img.shields.io/badge/open%20source-1C2BA4?style=flat-square)
+![Agent skill](https://img.shields.io/badge/agent%20skill-1C2BA4?style=flat-square)
+![Higgsfield](https://img.shields.io/badge/Higgsfield-1C2BA4?style=flat-square)
+![opensverige](https://img.shields.io/badge/opensverige-1C2BA4?style=flat-square)
+
+<a href="https://github.com/jbmathisen/opsve-higgsfieldreco"><img src="https://raw.githubusercontent.com/jbmathisen/opsve-higgsfieldreco/main/assets/profile-card.png" width="100%" alt="Think first, generate later. A community skill for Higgsfield in five steps"></a>
+
+A guided chat that gets you ready before you spend credits on Higgsfield. It reads your material, asks only what's missing, and hands over a brief, an art direction, a shot list and a budget. Built for the opensverige community after a member's experiment with Higgsfield, and distilled from Higgsfield's own skills, Impeccable, Taste Skill and Emil Kowalski's work. Public test, feedback welcome.
+
+[→ GitHub](https://github.com/jbmathisen/opsve-higgsfieldreco)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <br>
